@@ -1,5 +1,7 @@
 # 💫 About Me:
-- B.Tech CSE (AI) Student at Amrita Vishwa Vidyapeetham, Amritapuri <br>- Passionate AI/ML Enthusiast<br>- Worked on multiple Hands-On ML Projects
+- B.Tech CSE (AI) Student at Amrita Vishwa Vidyapeetham, Amritapuri
+- Passionate AI/ML Enthusiast
+- Worked on multiple Hands-On ML Projects
 
 
 ## 🌐 Socials:
